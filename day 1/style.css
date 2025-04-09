@@ -1,0 +1,37 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: yellow;
+    margin: 0;
+}
+.login{
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f5f5f0;
+    box-shadow: 0 4px 8px black;
+}
+
+.learn{
+    border-color: yellow;
+    background-color: yellow;
+    margin-right: 458px;
+
+}
+
+.img{
+    width: 500px;
+    height: 250px;
+    margin-bottom: 20px;
+
+}
+.container{
+    display: flex;
+    justify-content: center;
+    height: auto;
+    width: 10px;
+
+}
+
